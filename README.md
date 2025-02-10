@@ -1,0 +1,1 @@
+Neutron Networking is a shared-ownership, dedicated server & client relationship, room based networking solution mainly for game dev based off of [Riptide Networking](https://github.com/RiptideNetworking/Riptide). Its basically a rapper on Riptide using it as a connections manager to enable a room based architecture and shared-ownership games.
